@@ -9,4 +9,10 @@ Language: Python
 
 Packages used: numpy,scipy, seaborn, and matplotlib.
 
-<!-- Adding more text -->
+# Add different flow
+
+random split the data
+
+# Analysis
+Re-do analyses
+
