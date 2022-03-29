@@ -1,4 +1,4 @@
-# Demo
+# Info
 
 This is an exploration of the PAMAP2 Dataset. This physical activity data was processed according to the guidelines in the accmpanying documentation. Also, exploratory data analysis was carried out.
 Various visualizations are used to describe the features and shape of the data.
@@ -8,11 +8,4 @@ Several supervised and unsupeervised models are deployed to characterize and pre
 Language: Python
 
 Packages used: numpy,scipy, seaborn, and matplotlib.
-
-# Add different flow
-
-random split the data
-
-# Analysis
-Re-do analyses
 
